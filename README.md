@@ -15,4 +15,3 @@
  <img src="https://github-readme-stats.vercel.app/api?username=rpassosdomingues&show_icons=true" />
  </picture>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpassosdomingues&layout=compact)](https://github.com/rpassosdomingues/github-readme-stats)

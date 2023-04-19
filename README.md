@@ -3,6 +3,7 @@
 - 👨🏻‍💻 Estou cursando bacharelado em Ciência da Computação
 - 🌱 Aprendendo C/C++ e Haskell
 
+<div>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=rpassosdomingues&show_icons=true&theme=dark"
@@ -16,3 +17,6 @@
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpassosdomingues&layout=compact)](https://github.com/rpassosdomingues/github-readme-stats)
+
+</div>
+  

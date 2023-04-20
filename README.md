@@ -1,6 +1,7 @@
-### Oi povo! 👋
+### Oi povo! 👋🏻
 
-- 👨🏻‍💻 Estou cursando Bacharelado em Ciência da Computação
+- ⚛️ Sou Físico
+- 👨🏻‍💻 Agora estou cursando Bacharelado em Ciência da Computação
 - 🌱 Aprendendo C/C++
 
 <picture>

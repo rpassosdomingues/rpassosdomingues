@@ -2,7 +2,7 @@
 
 - ⚛️ Sou Físico
 - 👨🏻‍💻 Agora estou cursando Bacharelado em Ciência da Computação
-- </> Aprendendo C/C++, ProLog e Haskell 
+- </> Aprendendo C++
 
 <picture>
 <source 

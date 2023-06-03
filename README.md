@@ -4,4 +4,4 @@
 - 👨🏻‍💻 I am now studying for a Bachelor's degree in Computer Science at UNIFAL/MG (2023/2027)
 - </> Learning C/C++; Haskell and ProLog
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpassosdomingues&layout=compact)](https://github.com/rpassosdomingues/github-readme-stats)
